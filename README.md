@@ -3,7 +3,7 @@ EurostatVisu
 
 EurostatVisu is a web visualisation project of [Eurostat](http://ec.europa.eu/eurostat/) data (mainly). The visualisations currently available are the following:
 
-- [Income disparities in European countries](http://jgaffuri.github.io/EurostatVisu/income_distr.html). Focus on [country comparison](http://jgaffuri.github.io/EurostatVisu/income_distr_2.html)
+- [Income disparities in European countries](https://pierre-lamarche.github.io/EurostatVisu/income_distr.html). Focus on [country comparison](https://pierre-lamarche.github.io/EurostatVisu/income_distr_2.html)
 - [Economy's twists and turns](http://jgaffuri.github.io/EurostatVisu/crisis_route.html)
 - [Population map](http://jgaffuri.github.io/EurostatVisu/population_map.html?lvl=3&time=2014&s=1200&proj=laea) of Europe, based on [Nuts2json](https://github.com/jgaffuri/Nuts2json/blob/gh-pages/README.md) datasets
 - [Fishing quotas](http://jgaffuri.github.io/EurostatVisu/fq/quotas.html) repartition accross countries and fishing zones
